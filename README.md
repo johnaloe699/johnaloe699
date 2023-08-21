@@ -1,3 +1,4 @@
+![website-design](https://github.com/johnaloe699/johnaloe699/assets/65275014/621e49f3-cf3f-48b8-bb9e-20398ecf11f3)
 <h1 align="center">Hi 👋, I'm johnaloe</h1>
 <h3 align="center">A passionate frontend developer from south sudan</h3>
 
