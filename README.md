@@ -1,4 +1,4 @@
-![background](https://github.com/johnaloe699/johnaloe699/assets/65275014/4d4536d8-a207-4a03-954e-87002cc44222)
+<img width="500" alt="about" src="https://github.com/johnaloe699/johnaloe699/assets/65275014/bf86940f-0500-4ffb-9242-da491481692f">
 <h1 align="center">Hi 👋, I'm johnaloe</h1>
 <h3 align="center">A passionate frontend developer from south sudan</h3>
 
